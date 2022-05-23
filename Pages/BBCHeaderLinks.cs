@@ -7,6 +7,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.PageObjects;
 using FluentAssertions;
+//added extra line to test1
 
 namespace AutomationProject.Pages
 {
