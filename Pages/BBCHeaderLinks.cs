@@ -51,6 +51,7 @@ namespace AutomationProject.Pages
                     break;
             }
         }
+       
         public void VerifyLinks(string link)
         {
             switch (link)
