@@ -10,6 +10,6 @@ Scenario Outline: Verify Header links are working
 	Examples: 
 	| headerlink |
 	| News       |
-	| Sport     |
+	| Sport		 |
 	| Weather    |
 	

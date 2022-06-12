@@ -50,7 +50,7 @@ namespace AutomationProject.Pages
                 default: Console.WriteLine("No link match");
                     break;
             }
-        }
+        }    
         public void VerifyLinks(string link)
         {
             switch (link)

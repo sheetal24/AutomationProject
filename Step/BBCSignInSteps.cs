@@ -31,8 +31,8 @@ namespace AutomationProject.Step
         [When(@"I click on Account link")]
         public void WhenIClickOnAccountLink()
         {
-           
             signin.ClickSigninLink();
+            //sheetal extra code 
         }
         
         [When(@"I enter my username and password")]
