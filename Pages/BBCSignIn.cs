@@ -46,6 +46,7 @@ namespace AutomationProject.Pages
             var js = (IJavaScriptExecutor)driver;
             try
             {
+                //test
                 var element = driver.FindElement(by);
                 if (element.Location.Y > 200)
                 {
